@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "103315241515",
+    "project_id": "uas-ppapb-huda",
+    "storage_bucket": "uas-ppapb-huda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103315241515:android:cb732452b4cc8237a1486e",
+        "android_client_info": {
+          "package_name": "com.example.ppapb_uas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNj-yIJwQK7A1-FzCHYJ2fWbLV6KT-jWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
